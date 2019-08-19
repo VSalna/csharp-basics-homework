@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\bin\Debug\Loops6.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\bin\Debug\Loops6.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\bin\Debug\Loops6.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\obj\Debug\Loops6.csprojAssemblyReference.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\obj\Debug\Loops6.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\obj\Debug\Loops6.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Loops6\obj\Debug\Loops6.pdb

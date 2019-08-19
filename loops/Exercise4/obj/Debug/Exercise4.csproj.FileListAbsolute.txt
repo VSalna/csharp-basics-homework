@@ -1,0 +1,6 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.pdb
