@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\bin\Debug\Arrays7.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\bin\Debug\Arrays7.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\bin\Debug\Arrays7.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\obj\Debug\Arrays7.csprojAssemblyReference.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\obj\Debug\Arrays7.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\obj\Debug\Arrays7.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Arrays7\obj\Debug\Arrays7.pdb
