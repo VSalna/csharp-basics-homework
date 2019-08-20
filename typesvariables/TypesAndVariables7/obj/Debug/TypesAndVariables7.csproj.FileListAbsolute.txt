@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\bin\Debug\TypesAndVariables7.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\bin\Debug\TypesAndVariables7.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\bin\Debug\TypesAndVariables7.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\obj\Debug\TypesAndVariables7.csprojAssemblyReference.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\obj\Debug\TypesAndVariables7.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\obj\Debug\TypesAndVariables7.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\TypesAndVariables7\obj\Debug\TypesAndVariables7.pdb
