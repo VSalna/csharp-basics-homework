@@ -1,6 +1,0 @@
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics4\bin\Debug\Arithmetics4.exe.config
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics4\bin\Debug\Arithmetics4.exe
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics4\bin\Debug\Arithmetics4.pdb
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics4\obj\Debug\Arithmetics3.csproj.CoreCompileInputs.cache
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics4\obj\Debug\Arithmetics4.exe
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\Arithmetics4\obj\Debug\Arithmetics4.pdb

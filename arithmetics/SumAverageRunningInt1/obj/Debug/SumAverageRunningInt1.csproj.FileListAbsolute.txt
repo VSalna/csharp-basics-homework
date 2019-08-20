@@ -1,7 +1,0 @@
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\bin\Debug\SumAverageRunningInt1.exe.config
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\bin\Debug\SumAverageRunningInt1.exe
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\bin\Debug\SumAverageRunningInt1.pdb
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\obj\Debug\SumAverageRunningInt1.csprojAssemblyReference.cache
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\obj\Debug\SumAverageRunningInt1.csproj.CoreCompileInputs.cache
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\obj\Debug\SumAverageRunningInt1.exe
-C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Arithmetics\SumAverageRunningInt1\obj\Debug\SumAverageRunningInt1.pdb
