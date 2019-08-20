@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\bin\Debug\Tax_11.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\bin\Debug\Tax_11.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\bin\Debug\Tax_11.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax-11.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax_11.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax_11.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax-11.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.csprojAssemblyReference.cache

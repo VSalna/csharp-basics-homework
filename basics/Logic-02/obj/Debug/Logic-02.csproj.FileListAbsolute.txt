@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.csprojAssemblyReference.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\bin\Debug\Logic-02.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\bin\Debug\Logic-02.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\bin\Debug\Logic-02.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.pdb

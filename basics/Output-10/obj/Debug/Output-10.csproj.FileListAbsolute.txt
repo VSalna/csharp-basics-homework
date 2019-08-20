@@ -1,0 +1,7 @@
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\bin\Debug\Output-10.exe.config
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\bin\Debug\Output-10.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\bin\Debug\Output-10.pdb
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.csprojAssemblyReference.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.csproj.CoreCompileInputs.cache
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.exe
+C:\Users\viest\OneDrive\Dators\Codelex\projekti\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.pdb
